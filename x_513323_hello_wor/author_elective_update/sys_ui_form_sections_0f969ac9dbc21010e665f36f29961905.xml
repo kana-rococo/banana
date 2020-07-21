@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="0f969ac9dbc21010e665f36f29961905" sys_domain="global" table="x_513323_hello_wor_needlt" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_513323_hello_wor_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 06:47:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f969ac9dbc21010e665f36f29961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_513323_hello_wor_needlt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello World" source="x_513323_hello_wor">fb08bf90dbc21010e665f36f29961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">fb08bf90dbc21010e665f36f29961977</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0f969ac9dbc21010e665f36f29961905</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 06:47:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="">43969ac9dbc21010e665f36f29961900</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">fb08bf90dbc21010e665f36f29961977</application>
+        <file_path/>
+        <instance_id>b7857b0fdbaad300cbf6d5b0cf961928</instance_id>
+        <instance_name>dev60942</instance_name>
+        <name>sys_ui_form_sections_0f969ac9dbc21010e665f36f29961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="0f969ac9dbc21010e665f36f29961905" sys_domain="global" table="x_513323_hello_wor_needlt" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_513323_hello_wor_needlt</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-15 06:47:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0f969ac9dbc21010e665f36f29961905</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_513323_hello_wor_needlt</sys_name><sys_overrides/><sys_package display_value="Hello World" source="x_513323_hello_wor">fb08bf90dbc21010e665f36f29961977</sys_package><sys_policy/><sys_scope display_value="Hello World">fb08bf90dbc21010e665f36f29961977</sys_scope><sys_update_name>sys_ui_form_sections_0f969ac9dbc21010e665f36f29961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-15 06:47:08</sys_updated_on><sys_user/><view display_value="">43969ac9dbc21010e665f36f29961900</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>97474493</payload_hash>
+        <record_name>Needlt</record_name>
+        <reverted_from/>
+        <source>1986c31ddb821010e665f36f299619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-16 04:56:36</sys_created_on>
+        <sys_id>25e60b1ddb821010e665f36f29961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17355fb3fc90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-16 04:56:36</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>ade60b1d7e82101011a1c84c29fe6995</update_guid>
+        <update_guid_history>ade60b1d7e82101011a1c84c29fe6995:97474493,e5e60b1d20821010e4f493b379d0bd70:972092993,ede60b1d35821010112e582320077865:-367090050,4f969ac996c210107279c70d430e8e25:1517171849,4f969ac934c210103144f35580df3009:1195479266,0f969ac947c21010c70f9e375cf38106:1329456161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-16 04:56:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>0485bcb736864420856c67cb27333a40</sys_id>
+        <sys_metadata>0f969ac9dbc21010e665f36f29961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_513323_hello_wor_needlt</sys_name>
+        <sys_package display_value="Hello World" source="x_513323_hello_wor">fb08bf90dbc21010e665f36f29961977</sys_package>
+        <sys_parent display_value="Needlt">d8fb9dc5db421010e665f36f29961900</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">fb08bf90dbc21010e665f36f29961977</sys_scope>
+        <sys_scope_delete display_value="">3f923a7d19ab490daf426f00f68e8941</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_0f969ac9dbc21010e665f36f29961905</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_0f969ac9dbc21010e665f36f29961905">25e60b1ddb821010e665f36f29961996</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-16 04:56:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
