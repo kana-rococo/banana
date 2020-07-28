@@ -46,7 +46,9 @@ var whatneeded = g_form.getValue('u_what_needed');
 		// If the form is loading and it is not a new record, set the u_what_needed value to the
 		// value from the record before it was loaded
 		if(isLoading && !g_form.isNewRecord()){
+		//if(isLoading || newValue===''){
 			g_form.setValue('u_what_needed', whatneeded);
+			g_form.setValue('u_requested_for',g_user.userID);
 		}
    //Type appropriate comment here, and begin script below
    
@@ -57,7 +59,7 @@ var whatneeded = g_form.getValue('u_what_needed');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5d22a7d9dbc21010e665f36f299619cb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>NeedIt Request Type Options</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hello World" source="x_513323_hello_wor">fb08bf90dbc21010e665f36f29961977</sys_package>
@@ -65,7 +67,7 @@ var whatneeded = g_form.getValue('u_what_needed');
         <sys_scope display_value="Hello World">fb08bf90dbc21010e665f36f29961977</sys_scope>
         <sys_update_name>sys_script_client_5d22a7d9dbc21010e665f36f299619cb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-16 06:59:35</sys_updated_on>
+        <sys_updated_on>2020-07-22 02:38:38</sys_updated_on>
         <table>x_513323_hello_wor_needlt</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
